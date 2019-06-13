@@ -1,1 +1,3 @@
-# numerical_methods
+# Numerical Methods
+
+Various algorithms used to solve physics problems.
